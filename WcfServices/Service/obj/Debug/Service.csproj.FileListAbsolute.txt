@@ -1,0 +1,8 @@
+E:\vsProjectDocument\WcfServices\Service\bin\Debug\Service.exe.config
+E:\vsProjectDocument\WcfServices\Service\bin\Debug\Service.exe
+E:\vsProjectDocument\WcfServices\Service\bin\Debug\Service.pdb
+E:\vsProjectDocument\WcfServices\Service\bin\Debug\Service.Interface.exe
+E:\vsProjectDocument\WcfServices\Service\bin\Debug\Service.Interface.pdb
+E:\vsProjectDocument\WcfServices\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+E:\vsProjectDocument\WcfServices\Service\obj\Debug\Service.exe
+E:\vsProjectDocument\WcfServices\Service\obj\Debug\Service.pdb

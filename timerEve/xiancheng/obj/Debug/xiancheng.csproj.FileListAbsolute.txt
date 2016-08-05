@@ -1,0 +1,8 @@
+E:\vsProjectDocument\timerEve\xiancheng\bin\Debug\xiancheng.exe.config
+E:\vsProjectDocument\timerEve\xiancheng\bin\Debug\xiancheng.exe
+E:\vsProjectDocument\timerEve\xiancheng\bin\Debug\xiancheng.pdb
+E:\vsProjectDocument\timerEve\xiancheng\obj\Debug\xiancheng.Form1.resources
+E:\vsProjectDocument\timerEve\xiancheng\obj\Debug\xiancheng.Properties.Resources.resources
+E:\vsProjectDocument\timerEve\xiancheng\obj\Debug\xiancheng.csproj.GenerateResource.Cache
+E:\vsProjectDocument\timerEve\xiancheng\obj\Debug\xiancheng.exe
+E:\vsProjectDocument\timerEve\xiancheng\obj\Debug\xiancheng.pdb

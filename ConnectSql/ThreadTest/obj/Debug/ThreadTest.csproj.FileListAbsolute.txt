@@ -1,0 +1,9 @@
+E:\vsProjectDocument\ConnectSql\ThreadTest\bin\Debug\ThreadTest.exe.config
+E:\vsProjectDocument\ConnectSql\ThreadTest\bin\Debug\ThreadTest.exe
+E:\vsProjectDocument\ConnectSql\ThreadTest\bin\Debug\ThreadTest.pdb
+E:\vsProjectDocument\ConnectSql\ThreadTest\obj\Debug\ThreadTest.csprojResolveAssemblyReference.cache
+E:\vsProjectDocument\ConnectSql\ThreadTest\obj\Debug\ThreadTest.Form1.resources
+E:\vsProjectDocument\ConnectSql\ThreadTest\obj\Debug\ThreadTest.Properties.Resources.resources
+E:\vsProjectDocument\ConnectSql\ThreadTest\obj\Debug\ThreadTest.csproj.GenerateResource.Cache
+E:\vsProjectDocument\ConnectSql\ThreadTest\obj\Debug\ThreadTest.exe
+E:\vsProjectDocument\ConnectSql\ThreadTest\obj\Debug\ThreadTest.pdb

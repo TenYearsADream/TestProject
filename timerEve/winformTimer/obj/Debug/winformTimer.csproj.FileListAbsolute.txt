@@ -1,0 +1,9 @@
+E:\vsProjectDocument\timerEve\winformTimer\bin\Debug\winformTimer.exe.config
+E:\vsProjectDocument\timerEve\winformTimer\bin\Debug\winformTimer.exe
+E:\vsProjectDocument\timerEve\winformTimer\bin\Debug\winformTimer.pdb
+E:\vsProjectDocument\timerEve\winformTimer\obj\Debug\winformTimer.csprojResolveAssemblyReference.cache
+E:\vsProjectDocument\timerEve\winformTimer\obj\Debug\winformTimer.Form1.resources
+E:\vsProjectDocument\timerEve\winformTimer\obj\Debug\winformTimer.Properties.Resources.resources
+E:\vsProjectDocument\timerEve\winformTimer\obj\Debug\winformTimer.csproj.GenerateResource.Cache
+E:\vsProjectDocument\timerEve\winformTimer\obj\Debug\winformTimer.exe
+E:\vsProjectDocument\timerEve\winformTimer\obj\Debug\winformTimer.pdb

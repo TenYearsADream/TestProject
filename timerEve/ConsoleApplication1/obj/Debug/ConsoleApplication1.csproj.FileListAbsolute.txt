@@ -1,0 +1,5 @@
+E:\vsProjectDocument\timerEve\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\vsProjectDocument\timerEve\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\vsProjectDocument\timerEve\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\vsProjectDocument\timerEve\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\vsProjectDocument\timerEve\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

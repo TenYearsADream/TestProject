@@ -1,0 +1,12 @@
+F:\vsProjectDocument\ConnectSql\属性\bin\Debug\属性.exe.config
+F:\vsProjectDocument\ConnectSql\属性\obj\Debug\属性.csprojResolveAssemblyReference.cache
+F:\vsProjectDocument\ConnectSql\属性\bin\Debug\属性.exe
+F:\vsProjectDocument\ConnectSql\属性\bin\Debug\属性.pdb
+F:\vsProjectDocument\ConnectSql\属性\obj\Debug\属性.exe
+F:\vsProjectDocument\ConnectSql\属性\obj\Debug\属性.pdb
+E:\vsProjectDocument\ConnectSql\属性\bin\Debug\属性.exe.config
+E:\vsProjectDocument\ConnectSql\属性\obj\Debug\属性.exe
+E:\vsProjectDocument\ConnectSql\属性\obj\Debug\属性.pdb
+E:\vsProjectDocument\ConnectSql\属性\bin\Debug\属性.exe
+E:\vsProjectDocument\ConnectSql\属性\bin\Debug\属性.pdb
+E:\vsProjectDocument\ConnectSql\属性\obj\Debug\属性.csprojResolveAssemblyReference.cache

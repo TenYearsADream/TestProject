@@ -1,0 +1,6 @@
+F:\vsProjectDocument\DelDemo\DelDemo\bin\Debug\DelDemo.exe.config
+F:\vsProjectDocument\DelDemo\DelDemo\bin\Debug\DelDemo.exe
+F:\vsProjectDocument\DelDemo\DelDemo\bin\Debug\DelDemo.pdb
+F:\vsProjectDocument\DelDemo\DelDemo\obj\Debug\DelDemo.csprojResolveAssemblyReference.cache
+F:\vsProjectDocument\DelDemo\DelDemo\obj\Debug\DelDemo.exe
+F:\vsProjectDocument\DelDemo\DelDemo\obj\Debug\DelDemo.pdb

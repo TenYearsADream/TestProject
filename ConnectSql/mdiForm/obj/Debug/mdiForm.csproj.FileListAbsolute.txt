@@ -1,0 +1,9 @@
+F:\vsProjectDocument\ConnectSql\mdiForm\bin\Debug\mdiForm.exe.config
+F:\vsProjectDocument\ConnectSql\mdiForm\bin\Debug\mdiForm.exe
+F:\vsProjectDocument\ConnectSql\mdiForm\bin\Debug\mdiForm.pdb
+F:\vsProjectDocument\ConnectSql\mdiForm\obj\Debug\mdiForm.csprojResolveAssemblyReference.cache
+F:\vsProjectDocument\ConnectSql\mdiForm\obj\Debug\mdiForm.Form1.resources
+F:\vsProjectDocument\ConnectSql\mdiForm\obj\Debug\mdiForm.Properties.Resources.resources
+F:\vsProjectDocument\ConnectSql\mdiForm\obj\Debug\mdiForm.csproj.GenerateResource.Cache
+F:\vsProjectDocument\ConnectSql\mdiForm\obj\Debug\mdiForm.exe
+F:\vsProjectDocument\ConnectSql\mdiForm\obj\Debug\mdiForm.pdb

@@ -1,0 +1,6 @@
+E:\vsProjectDocument\WCF\WCF\bin\WCF.dll.config
+E:\vsProjectDocument\WCF\WCF\bin\WCF.dll
+E:\vsProjectDocument\WCF\WCF\bin\WCF.pdb
+E:\vsProjectDocument\WCF\WCF\obj\Release\WCF.csprojResolveAssemblyReference.cache
+E:\vsProjectDocument\WCF\WCF\obj\Release\WCF.dll
+E:\vsProjectDocument\WCF\WCF\obj\Release\WCF.pdb

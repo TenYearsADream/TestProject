@@ -1,0 +1,5 @@
+E:\vsProjectDocument\ConnectSql\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+E:\vsProjectDocument\ConnectSql\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+E:\vsProjectDocument\ConnectSql\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+E:\vsProjectDocument\ConnectSql\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+E:\vsProjectDocument\ConnectSql\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

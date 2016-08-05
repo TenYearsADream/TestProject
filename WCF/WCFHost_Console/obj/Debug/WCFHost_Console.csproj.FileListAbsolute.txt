@@ -1,0 +1,8 @@
+E:\vsProjectDocument\WCF\WCFHost_Console\bin\Debug\WCFHost_Console.exe.config
+E:\vsProjectDocument\WCF\WCFHost_Console\bin\Debug\WCFHost_Console.exe
+E:\vsProjectDocument\WCF\WCFHost_Console\bin\Debug\WCFHost_Console.pdb
+E:\vsProjectDocument\WCF\WCFHost_Console\bin\Debug\WcfLibrary.dll
+E:\vsProjectDocument\WCF\WCFHost_Console\bin\Debug\WcfLibrary.pdb
+E:\vsProjectDocument\WCF\WCFHost_Console\obj\Debug\WCFHost_Console.csprojResolveAssemblyReference.cache
+E:\vsProjectDocument\WCF\WCFHost_Console\obj\Debug\WCFHost_Console.exe
+E:\vsProjectDocument\WCF\WCFHost_Console\obj\Debug\WCFHost_Console.pdb

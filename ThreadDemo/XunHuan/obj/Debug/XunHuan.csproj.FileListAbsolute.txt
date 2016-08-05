@@ -1,0 +1,9 @@
+F:\vsProjectDocument\ThreadDemo\XunHuan\bin\Debug\XunHuan.exe.config
+F:\vsProjectDocument\ThreadDemo\XunHuan\bin\Debug\XunHuan.exe
+F:\vsProjectDocument\ThreadDemo\XunHuan\bin\Debug\XunHuan.pdb
+F:\vsProjectDocument\ThreadDemo\XunHuan\obj\Debug\XunHuan.csprojResolveAssemblyReference.cache
+F:\vsProjectDocument\ThreadDemo\XunHuan\obj\Debug\XunHuan.Form1.resources
+F:\vsProjectDocument\ThreadDemo\XunHuan\obj\Debug\XunHuan.Properties.Resources.resources
+F:\vsProjectDocument\ThreadDemo\XunHuan\obj\Debug\XunHuan.csproj.GenerateResource.Cache
+F:\vsProjectDocument\ThreadDemo\XunHuan\obj\Debug\XunHuan.exe
+F:\vsProjectDocument\ThreadDemo\XunHuan\obj\Debug\XunHuan.pdb

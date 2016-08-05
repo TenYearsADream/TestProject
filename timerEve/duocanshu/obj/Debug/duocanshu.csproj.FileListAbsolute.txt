@@ -1,0 +1,9 @@
+E:\vsProjectDocument\timerEve\duocanshu\bin\Debug\duocanshu.exe.config
+E:\vsProjectDocument\timerEve\duocanshu\bin\Debug\duocanshu.exe
+E:\vsProjectDocument\timerEve\duocanshu\bin\Debug\duocanshu.pdb
+E:\vsProjectDocument\timerEve\duocanshu\obj\Debug\duocanshu.csprojResolveAssemblyReference.cache
+E:\vsProjectDocument\timerEve\duocanshu\obj\Debug\duocanshu.Form1.resources
+E:\vsProjectDocument\timerEve\duocanshu\obj\Debug\duocanshu.Properties.Resources.resources
+E:\vsProjectDocument\timerEve\duocanshu\obj\Debug\duocanshu.csproj.GenerateResource.Cache
+E:\vsProjectDocument\timerEve\duocanshu\obj\Debug\duocanshu.exe
+E:\vsProjectDocument\timerEve\duocanshu\obj\Debug\duocanshu.pdb

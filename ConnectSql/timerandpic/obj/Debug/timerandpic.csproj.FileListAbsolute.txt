@@ -1,0 +1,11 @@
+F:\vsProjectDocument\ConnectSql\timerandpic\bin\Debug\timerandpic.exe.config
+F:\vsProjectDocument\ConnectSql\timerandpic\bin\Debug\timerandpic.exe
+F:\vsProjectDocument\ConnectSql\timerandpic\bin\Debug\timerandpic.pdb
+F:\vsProjectDocument\ConnectSql\timerandpic\obj\Debug\timerandpic.Form1.resources
+F:\vsProjectDocument\ConnectSql\timerandpic\obj\Debug\timerandpic.Properties.Resources.resources
+F:\vsProjectDocument\ConnectSql\timerandpic\obj\Debug\timerandpic.csproj.GenerateResource.Cache
+F:\vsProjectDocument\ConnectSql\timerandpic\obj\Debug\timerandpic.exe
+F:\vsProjectDocument\ConnectSql\timerandpic\obj\Debug\timerandpic.pdb
+E:\vsProjectDocument\ConnectSql\timerandpic\bin\Debug\timerandpic.exe.config
+E:\vsProjectDocument\ConnectSql\timerandpic\obj\Debug\timerandpic.exe
+E:\vsProjectDocument\ConnectSql\timerandpic\obj\Debug\timerandpic.pdb

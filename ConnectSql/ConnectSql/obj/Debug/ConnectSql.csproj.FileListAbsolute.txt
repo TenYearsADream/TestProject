@@ -1,0 +1,12 @@
+F:\vsProjectDocument\ConnectSql\ConnectSql\bin\Debug\ConnectSql.exe.config
+F:\vsProjectDocument\ConnectSql\ConnectSql\bin\Debug\ConnectSql.exe
+F:\vsProjectDocument\ConnectSql\ConnectSql\bin\Debug\ConnectSql.pdb
+F:\vsProjectDocument\ConnectSql\ConnectSql\obj\Debug\ConnectSql.csprojResolveAssemblyReference.cache
+F:\vsProjectDocument\ConnectSql\ConnectSql\obj\Debug\ConnectSql.exe
+F:\vsProjectDocument\ConnectSql\ConnectSql\obj\Debug\ConnectSql.pdb
+E:\vsProjectDocument\ConnectSql\ConnectSql\bin\Debug\ConnectSql.exe.config
+E:\vsProjectDocument\ConnectSql\ConnectSql\obj\Debug\ConnectSql.exe
+E:\vsProjectDocument\ConnectSql\ConnectSql\obj\Debug\ConnectSql.pdb
+E:\vsProjectDocument\ConnectSql\ConnectSql\obj\Debug\ConnectSql.csprojResolveAssemblyReference.cache
+E:\vsProjectDocument\ConnectSql\ConnectSql\bin\Debug\ConnectSql.exe
+E:\vsProjectDocument\ConnectSql\ConnectSql\bin\Debug\ConnectSql.pdb

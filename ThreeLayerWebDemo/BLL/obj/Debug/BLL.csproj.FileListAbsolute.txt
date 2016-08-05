@@ -1,0 +1,5 @@
+F:\vsProjectDocument\ThreeLayerWebDemo\BLL\bin\Debug\BLL.dll
+F:\vsProjectDocument\ThreeLayerWebDemo\BLL\bin\Debug\BLL.pdb
+F:\vsProjectDocument\ThreeLayerWebDemo\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\vsProjectDocument\ThreeLayerWebDemo\BLL\obj\Debug\BLL.dll
+F:\vsProjectDocument\ThreeLayerWebDemo\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <form method="post" action="ProcessEdit.ashx">
+        <input type="hidden" name="hidId" value="@stuno" />
+        <table>         
+            <tr>
+                <td>stuname:</td>
+                <td><input type="text" name="txtstuname" value="@txtstuname" /></td>
+            </tr>
+
+            <tr>
+                <td>stusex:</td>
+                <td><input type="text" name="txtstusex" value="@txtstusex" /></td>
+            </tr>
+
+            <tr>
+                <td>stumajor:</td>
+                <td><input type="text" name="txtstumajor" value="@txtstumajor" /></td>
+            </tr>
+
+            <tr>
+                <td>stutel:</td>
+                <td><input type="text" name="txtstutel" value="@txtstutel" /></td>
+            </tr>
+
+            <tr>
+                <td colspan="2"><input type="submit" value="修改" /></td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>
+
+

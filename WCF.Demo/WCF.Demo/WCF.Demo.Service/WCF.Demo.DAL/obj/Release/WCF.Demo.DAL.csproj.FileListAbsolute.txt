@@ -1,0 +1,14 @@
+E:\05 公司业务\Company\05 培训\04 WCF\WCF.Demo.Service\WCF.Demo.DAL\bin\Release\WCF.Demo.DAL.dll
+E:\05 公司业务\Company\05 培训\04 WCF\WCF.Demo.Service\WCF.Demo.DAL\bin\Release\WCF.Demo.DAL.pdb
+E:\05 公司业务\Company\05 培训\04 WCF\WCF.Demo.Service\WCF.Demo.DAL\bin\Release\WCF.Demo.Model.dll
+E:\05 公司业务\Company\05 培训\04 WCF\WCF.Demo.Service\WCF.Demo.DAL\bin\Release\WCF.Demo.Model.pdb
+E:\05 公司业务\Company\05 培训\04 WCF\WCF.Demo.Service\WCF.Demo.DAL\obj\Release\WCF.Demo.DAL.csprojResolveAssemblyReference.cache
+E:\05 公司业务\Company\05 培训\04 WCF\WCF.Demo.Service\WCF.Demo.DAL\obj\Release\WCF.Demo.DAL.dll
+E:\05 公司业务\Company\05 培训\04 WCF\WCF.Demo.Service\WCF.Demo.DAL\obj\Release\WCF.Demo.DAL.pdb
+E:\vsProjectDocument\WCF.Demo\WCF.Demo\WCF.Demo.Service\WCF.Demo.DAL\bin\Release\WCF.Demo.DAL.dll
+E:\vsProjectDocument\WCF.Demo\WCF.Demo\WCF.Demo.Service\WCF.Demo.DAL\bin\Release\WCF.Demo.DAL.pdb
+E:\vsProjectDocument\WCF.Demo\WCF.Demo\WCF.Demo.Service\WCF.Demo.DAL\bin\Release\WCF.Demo.Model.dll
+E:\vsProjectDocument\WCF.Demo\WCF.Demo\WCF.Demo.Service\WCF.Demo.DAL\bin\Release\WCF.Demo.Model.pdb
+E:\vsProjectDocument\WCF.Demo\WCF.Demo\WCF.Demo.Service\WCF.Demo.DAL\obj\Release\WCF.Demo.DAL.csprojResolveAssemblyReference.cache
+E:\vsProjectDocument\WCF.Demo\WCF.Demo\WCF.Demo.Service\WCF.Demo.DAL\obj\Release\WCF.Demo.DAL.dll
+E:\vsProjectDocument\WCF.Demo\WCF.Demo\WCF.Demo.Service\WCF.Demo.DAL\obj\Release\WCF.Demo.DAL.pdb

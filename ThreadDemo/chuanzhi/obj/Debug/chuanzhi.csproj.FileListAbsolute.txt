@@ -1,0 +1,10 @@
+F:\vsProjectDocument\ThreadDemo\chuanzhi\bin\Debug\chuanzhi.exe.config
+F:\vsProjectDocument\ThreadDemo\chuanzhi\bin\Debug\chuanzhi.exe
+F:\vsProjectDocument\ThreadDemo\chuanzhi\bin\Debug\chuanzhi.pdb
+F:\vsProjectDocument\ThreadDemo\chuanzhi\obj\Debug\chuanzhi.csprojResolveAssemblyReference.cache
+F:\vsProjectDocument\ThreadDemo\chuanzhi\obj\Debug\chuanzhi.Form1.resources
+F:\vsProjectDocument\ThreadDemo\chuanzhi\obj\Debug\chuanzhi.Form2.resources
+F:\vsProjectDocument\ThreadDemo\chuanzhi\obj\Debug\chuanzhi.Properties.Resources.resources
+F:\vsProjectDocument\ThreadDemo\chuanzhi\obj\Debug\chuanzhi.csproj.GenerateResource.Cache
+F:\vsProjectDocument\ThreadDemo\chuanzhi\obj\Debug\chuanzhi.exe
+F:\vsProjectDocument\ThreadDemo\chuanzhi\obj\Debug\chuanzhi.pdb

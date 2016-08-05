@@ -1,0 +1,6 @@
+E:\vsProjectDocument\ConnectSql\timerspan\bin\Debug\timerspan.exe.config
+E:\vsProjectDocument\ConnectSql\timerspan\bin\Debug\timerspan.exe
+E:\vsProjectDocument\ConnectSql\timerspan\bin\Debug\timerspan.pdb
+E:\vsProjectDocument\ConnectSql\timerspan\obj\Debug\timerspan.csprojResolveAssemblyReference.cache
+E:\vsProjectDocument\ConnectSql\timerspan\obj\Debug\timerspan.exe
+E:\vsProjectDocument\ConnectSql\timerspan\obj\Debug\timerspan.pdb

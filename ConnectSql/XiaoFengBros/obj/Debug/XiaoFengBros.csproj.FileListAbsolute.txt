@@ -1,0 +1,12 @@
+F:\vsProjectDocument\ConnectSql\XiaoFengBros\bin\Debug\XiaoFengBros.exe.config
+F:\vsProjectDocument\ConnectSql\XiaoFengBros\bin\Debug\XiaoFengBros.exe
+F:\vsProjectDocument\ConnectSql\XiaoFengBros\bin\Debug\XiaoFengBros.pdb
+F:\vsProjectDocument\ConnectSql\XiaoFengBros\obj\Debug\XiaoFengBros.csprojResolveAssemblyReference.cache
+F:\vsProjectDocument\ConnectSql\XiaoFengBros\obj\Debug\XiaoFengBros.MainFrm.resources
+F:\vsProjectDocument\ConnectSql\XiaoFengBros\obj\Debug\XiaoFengBros.Properties.Resources.resources
+F:\vsProjectDocument\ConnectSql\XiaoFengBros\obj\Debug\XiaoFengBros.csproj.GenerateResource.Cache
+F:\vsProjectDocument\ConnectSql\XiaoFengBros\obj\Debug\XiaoFengBros.exe
+F:\vsProjectDocument\ConnectSql\XiaoFengBros\obj\Debug\XiaoFengBros.pdb
+E:\vsProjectDocument\ConnectSql\XiaoFengBros\bin\Debug\XiaoFengBros.exe.config
+E:\vsProjectDocument\ConnectSql\XiaoFengBros\obj\Debug\XiaoFengBros.exe
+E:\vsProjectDocument\ConnectSql\XiaoFengBros\obj\Debug\XiaoFengBros.pdb

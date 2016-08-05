@@ -1,0 +1,13 @@
+F:\vsProjectDocument\ConnectSql\winform构造函数传参\bin\Debug\winform构造函数传参.exe.config
+F:\vsProjectDocument\ConnectSql\winform构造函数传参\bin\Debug\winform构造函数传参.exe
+F:\vsProjectDocument\ConnectSql\winform构造函数传参\bin\Debug\winform构造函数传参.pdb
+F:\vsProjectDocument\ConnectSql\winform构造函数传参\obj\Debug\winform构造函数传参.Form1.resources
+F:\vsProjectDocument\ConnectSql\winform构造函数传参\obj\Debug\winform构造函数传参.Form2.resources
+F:\vsProjectDocument\ConnectSql\winform构造函数传参\obj\Debug\winform构造函数传参.Properties.Resources.resources
+F:\vsProjectDocument\ConnectSql\winform构造函数传参\obj\Debug\winform构造函数传参.csproj.GenerateResource.Cache
+F:\vsProjectDocument\ConnectSql\winform构造函数传参\obj\Debug\winform构造函数传参.exe
+F:\vsProjectDocument\ConnectSql\winform构造函数传参\obj\Debug\winform构造函数传参.pdb
+F:\vsProjectDocument\ConnectSql\winform构造函数传参\obj\Debug\winform构造函数传参.csprojResolveAssemblyReference.cache
+E:\vsProjectDocument\ConnectSql\winform构造函数传参\bin\Debug\winform构造函数传参.exe.config
+E:\vsProjectDocument\ConnectSql\winform构造函数传参\obj\Debug\winform构造函数传参.exe
+E:\vsProjectDocument\ConnectSql\winform构造函数传参\obj\Debug\winform构造函数传参.pdb

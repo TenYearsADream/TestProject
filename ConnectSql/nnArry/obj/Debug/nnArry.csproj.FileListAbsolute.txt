@@ -1,0 +1,6 @@
+F:\vsProjectDocument\ConnectSql\nnArry\bin\Debug\nnArry.exe.config
+F:\vsProjectDocument\ConnectSql\nnArry\bin\Debug\nnArry.exe
+F:\vsProjectDocument\ConnectSql\nnArry\bin\Debug\nnArry.pdb
+F:\vsProjectDocument\ConnectSql\nnArry\obj\Debug\nnArry.csprojResolveAssemblyReference.cache
+F:\vsProjectDocument\ConnectSql\nnArry\obj\Debug\nnArry.exe
+F:\vsProjectDocument\ConnectSql\nnArry\obj\Debug\nnArry.pdb

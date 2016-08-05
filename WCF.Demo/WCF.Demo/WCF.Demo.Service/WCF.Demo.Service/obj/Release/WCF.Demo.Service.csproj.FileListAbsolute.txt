@@ -1,0 +1,20 @@
+E:\05 公司业务\Company\05 培训\04 WCF\WCF.Demo.Service\WCF.Demo.Service\bin\WCF.Demo.Service.dll.config
+E:\05 公司业务\Company\05 培训\04 WCF\WCF.Demo.Service\WCF.Demo.Service\bin\WCF.Demo.Service.dll
+E:\05 公司业务\Company\05 培训\04 WCF\WCF.Demo.Service\WCF.Demo.Service\bin\WCF.Demo.Service.pdb
+E:\05 公司业务\Company\05 培训\04 WCF\WCF.Demo.Service\WCF.Demo.Service\bin\WCF.Demo.DAL.dll
+E:\05 公司业务\Company\05 培训\04 WCF\WCF.Demo.Service\WCF.Demo.Service\bin\WCF.Demo.Model.dll
+E:\05 公司业务\Company\05 培训\04 WCF\WCF.Demo.Service\WCF.Demo.Service\bin\WCF.Demo.DAL.pdb
+E:\05 公司业务\Company\05 培训\04 WCF\WCF.Demo.Service\WCF.Demo.Service\bin\WCF.Demo.Model.pdb
+E:\05 公司业务\Company\05 培训\04 WCF\WCF.Demo.Service\WCF.Demo.Service\obj\Release\WCF.Demo.Service.csprojResolveAssemblyReference.cache
+E:\05 公司业务\Company\05 培训\04 WCF\WCF.Demo.Service\WCF.Demo.Service\obj\Release\WCF.Demo.Service.dll
+E:\05 公司业务\Company\05 培训\04 WCF\WCF.Demo.Service\WCF.Demo.Service\obj\Release\WCF.Demo.Service.pdb
+E:\vsProjectDocument\WCF.Demo\WCF.Demo\WCF.Demo.Service\WCF.Demo.Service\bin\WCF.Demo.Service.dll.config
+E:\vsProjectDocument\WCF.Demo\WCF.Demo\WCF.Demo.Service\WCF.Demo.Service\bin\WCF.Demo.Service.dll
+E:\vsProjectDocument\WCF.Demo\WCF.Demo\WCF.Demo.Service\WCF.Demo.Service\bin\WCF.Demo.Service.pdb
+E:\vsProjectDocument\WCF.Demo\WCF.Demo\WCF.Demo.Service\WCF.Demo.Service\bin\WCF.Demo.DAL.dll
+E:\vsProjectDocument\WCF.Demo\WCF.Demo\WCF.Demo.Service\WCF.Demo.Service\bin\WCF.Demo.Model.dll
+E:\vsProjectDocument\WCF.Demo\WCF.Demo\WCF.Demo.Service\WCF.Demo.Service\bin\WCF.Demo.DAL.pdb
+E:\vsProjectDocument\WCF.Demo\WCF.Demo\WCF.Demo.Service\WCF.Demo.Service\bin\WCF.Demo.Model.pdb
+E:\vsProjectDocument\WCF.Demo\WCF.Demo\WCF.Demo.Service\WCF.Demo.Service\obj\Release\WCF.Demo.Service.csprojResolveAssemblyReference.cache
+E:\vsProjectDocument\WCF.Demo\WCF.Demo\WCF.Demo.Service\WCF.Demo.Service\obj\Release\WCF.Demo.Service.dll
+E:\vsProjectDocument\WCF.Demo\WCF.Demo\WCF.Demo.Service\WCF.Demo.Service\obj\Release\WCF.Demo.Service.pdb

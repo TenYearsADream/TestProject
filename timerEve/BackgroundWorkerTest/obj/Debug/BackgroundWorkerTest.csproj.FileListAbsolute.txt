@@ -1,0 +1,9 @@
+E:\vsProjectDocument\timerEve\BackgroundWorkerTest\bin\Debug\BackgroundWorkerTest.exe.config
+E:\vsProjectDocument\timerEve\BackgroundWorkerTest\bin\Debug\BackgroundWorkerTest.exe
+E:\vsProjectDocument\timerEve\BackgroundWorkerTest\bin\Debug\BackgroundWorkerTest.pdb
+E:\vsProjectDocument\timerEve\BackgroundWorkerTest\obj\Debug\BackgroundWorkerTest.csprojResolveAssemblyReference.cache
+E:\vsProjectDocument\timerEve\BackgroundWorkerTest\obj\Debug\BackgroundWorkerTest.Form1.resources
+E:\vsProjectDocument\timerEve\BackgroundWorkerTest\obj\Debug\BackgroundWorkerTest.Properties.Resources.resources
+E:\vsProjectDocument\timerEve\BackgroundWorkerTest\obj\Debug\BackgroundWorkerTest.csproj.GenerateResource.Cache
+E:\vsProjectDocument\timerEve\BackgroundWorkerTest\obj\Debug\BackgroundWorkerTest.exe
+E:\vsProjectDocument\timerEve\BackgroundWorkerTest\obj\Debug\BackgroundWorkerTest.pdb

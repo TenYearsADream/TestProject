@@ -1,0 +1,12 @@
+F:\vsProjectDocument\ConnectSql\TimerTest\bin\Debug\TimerTest.exe.config
+F:\vsProjectDocument\ConnectSql\TimerTest\bin\Debug\TimerTest.exe
+F:\vsProjectDocument\ConnectSql\TimerTest\bin\Debug\TimerTest.pdb
+F:\vsProjectDocument\ConnectSql\TimerTest\obj\Debug\TimerTest.csprojResolveAssemblyReference.cache
+F:\vsProjectDocument\ConnectSql\TimerTest\obj\Debug\TimerTest.Form1.resources
+F:\vsProjectDocument\ConnectSql\TimerTest\obj\Debug\TimerTest.Properties.Resources.resources
+F:\vsProjectDocument\ConnectSql\TimerTest\obj\Debug\TimerTest.csproj.GenerateResource.Cache
+F:\vsProjectDocument\ConnectSql\TimerTest\obj\Debug\TimerTest.exe
+F:\vsProjectDocument\ConnectSql\TimerTest\obj\Debug\TimerTest.pdb
+E:\vsProjectDocument\ConnectSql\TimerTest\bin\Debug\TimerTest.exe.config
+E:\vsProjectDocument\ConnectSql\TimerTest\obj\Debug\TimerTest.exe
+E:\vsProjectDocument\ConnectSql\TimerTest\obj\Debug\TimerTest.pdb

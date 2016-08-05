@@ -1,0 +1,1 @@
+E:\vsProjectDocument\WcfServices\WcfServices\bin\Debug\WcfServices.exe.config

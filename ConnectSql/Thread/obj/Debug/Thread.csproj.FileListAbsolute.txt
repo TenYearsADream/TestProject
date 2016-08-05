@@ -1,0 +1,12 @@
+F:\vsProjectDocument\ConnectSql\Thread\bin\Debug\Thread.exe.config
+F:\vsProjectDocument\ConnectSql\Thread\bin\Debug\Thread.exe
+F:\vsProjectDocument\ConnectSql\Thread\bin\Debug\Thread.pdb
+F:\vsProjectDocument\ConnectSql\Thread\obj\Debug\Thread.csprojResolveAssemblyReference.cache
+F:\vsProjectDocument\ConnectSql\Thread\obj\Debug\Threadhaha.Form1.resources
+F:\vsProjectDocument\ConnectSql\Thread\obj\Debug\Threadhaha.Properties.Resources.resources
+F:\vsProjectDocument\ConnectSql\Thread\obj\Debug\Thread.csproj.GenerateResource.Cache
+F:\vsProjectDocument\ConnectSql\Thread\obj\Debug\Thread.exe
+F:\vsProjectDocument\ConnectSql\Thread\obj\Debug\Thread.pdb
+E:\vsProjectDocument\ConnectSql\Thread\bin\Debug\Thread.exe.config
+E:\vsProjectDocument\ConnectSql\Thread\obj\Debug\Thread.exe
+E:\vsProjectDocument\ConnectSql\Thread\obj\Debug\Thread.pdb

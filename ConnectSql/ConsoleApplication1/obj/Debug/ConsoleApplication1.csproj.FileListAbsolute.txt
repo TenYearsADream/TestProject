@@ -1,0 +1,6 @@
+F:\vsProjectDocument\ConnectSql\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\vsProjectDocument\ConnectSql\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\vsProjectDocument\ConnectSql\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\vsProjectDocument\ConnectSql\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+F:\vsProjectDocument\ConnectSql\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\vsProjectDocument\ConnectSql\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

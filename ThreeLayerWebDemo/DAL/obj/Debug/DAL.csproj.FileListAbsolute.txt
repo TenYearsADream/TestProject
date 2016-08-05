@@ -1,0 +1,4 @@
+F:\vsProjectDocument\ThreeLayerWebDemo\DAL\bin\Debug\DAL.dll
+F:\vsProjectDocument\ThreeLayerWebDemo\DAL\bin\Debug\DAL.pdb
+F:\vsProjectDocument\ThreeLayerWebDemo\DAL\obj\Debug\DAL.dll
+F:\vsProjectDocument\ThreeLayerWebDemo\DAL\obj\Debug\DAL.pdb

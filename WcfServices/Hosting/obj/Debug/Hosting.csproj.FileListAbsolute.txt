@@ -1,0 +1,10 @@
+E:\vsProjectDocument\WcfServices\Hosting\bin\Debug\Hosting.exe.config
+E:\vsProjectDocument\WcfServices\Hosting\bin\Debug\Hosting.exe
+E:\vsProjectDocument\WcfServices\Hosting\bin\Debug\Hosting.pdb
+E:\vsProjectDocument\WcfServices\Hosting\bin\Debug\Service.exe
+E:\vsProjectDocument\WcfServices\Hosting\bin\Debug\Service.Interface.exe
+E:\vsProjectDocument\WcfServices\Hosting\bin\Debug\Service.Interface.pdb
+E:\vsProjectDocument\WcfServices\Hosting\bin\Debug\Service.pdb
+E:\vsProjectDocument\WcfServices\Hosting\obj\Debug\Hosting.csprojResolveAssemblyReference.cache
+E:\vsProjectDocument\WcfServices\Hosting\obj\Debug\Hosting.exe
+E:\vsProjectDocument\WcfServices\Hosting\obj\Debug\Hosting.pdb

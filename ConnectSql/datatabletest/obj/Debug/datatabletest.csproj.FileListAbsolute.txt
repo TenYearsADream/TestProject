@@ -1,0 +1,9 @@
+E:\vsProjectDocument\ConnectSql\datatabletest\bin\Debug\datatabletest.exe.config
+E:\vsProjectDocument\ConnectSql\datatabletest\bin\Debug\datatabletest.exe
+E:\vsProjectDocument\ConnectSql\datatabletest\bin\Debug\datatabletest.pdb
+E:\vsProjectDocument\ConnectSql\datatabletest\obj\Debug\datatabletest.csprojResolveAssemblyReference.cache
+E:\vsProjectDocument\ConnectSql\datatabletest\obj\Debug\datatabletest.Form1.resources
+E:\vsProjectDocument\ConnectSql\datatabletest\obj\Debug\datatabletest.Properties.Resources.resources
+E:\vsProjectDocument\ConnectSql\datatabletest\obj\Debug\datatabletest.csproj.GenerateResource.Cache
+E:\vsProjectDocument\ConnectSql\datatabletest\obj\Debug\datatabletest.exe
+E:\vsProjectDocument\ConnectSql\datatabletest\obj\Debug\datatabletest.pdb

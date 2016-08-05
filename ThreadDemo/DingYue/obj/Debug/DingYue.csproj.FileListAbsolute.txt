@@ -1,0 +1,6 @@
+F:\vsProjectDocument\ThreadDemo\DingYue\bin\Debug\DingYue.exe.config
+F:\vsProjectDocument\ThreadDemo\DingYue\obj\Debug\DingYue.csprojResolveAssemblyReference.cache
+F:\vsProjectDocument\ThreadDemo\DingYue\obj\Debug\DingYue.Form1.resources
+F:\vsProjectDocument\ThreadDemo\DingYue\obj\Debug\DingYue.Form2.resources
+F:\vsProjectDocument\ThreadDemo\DingYue\obj\Debug\DingYue.Properties.Resources.resources
+F:\vsProjectDocument\ThreadDemo\DingYue\obj\Debug\DingYue.csproj.GenerateResource.Cache

@@ -1,0 +1,5 @@
+E:\vsProjectDocument\WCF\WcfLibrary\bin\Debug\WcfLibrary.dll.config
+E:\vsProjectDocument\WCF\WcfLibrary\bin\Debug\WcfLibrary.dll
+E:\vsProjectDocument\WCF\WcfLibrary\bin\Debug\WcfLibrary.pdb
+E:\vsProjectDocument\WCF\WcfLibrary\obj\Debug\WcfLibrary.dll
+E:\vsProjectDocument\WCF\WcfLibrary\obj\Debug\WcfLibrary.pdb

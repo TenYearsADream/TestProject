@@ -1,0 +1,12 @@
+F:\vsProjectDocument\ConnectSql\SqlHelperClass\bin\Debug\SqlHelperClass.exe.config
+F:\vsProjectDocument\ConnectSql\SqlHelperClass\obj\Debug\SqlHelperClass.csprojResolveAssemblyReference.cache
+F:\vsProjectDocument\ConnectSql\SqlHelperClass\obj\Debug\SqlHelperClass.Form1.resources
+F:\vsProjectDocument\ConnectSql\SqlHelperClass\obj\Debug\SqlHelperClass.Properties.Resources.resources
+F:\vsProjectDocument\ConnectSql\SqlHelperClass\obj\Debug\SqlHelperClass.csproj.GenerateResource.Cache
+F:\vsProjectDocument\ConnectSql\SqlHelperClass\bin\Debug\SqlHelperClass.exe
+F:\vsProjectDocument\ConnectSql\SqlHelperClass\bin\Debug\SqlHelperClass.pdb
+F:\vsProjectDocument\ConnectSql\SqlHelperClass\obj\Debug\SqlHelperClass.exe
+F:\vsProjectDocument\ConnectSql\SqlHelperClass\obj\Debug\SqlHelperClass.pdb
+E:\vsProjectDocument\ConnectSql\SqlHelperClass\bin\Debug\SqlHelperClass.exe.config
+E:\vsProjectDocument\ConnectSql\SqlHelperClass\obj\Debug\SqlHelperClass.exe
+E:\vsProjectDocument\ConnectSql\SqlHelperClass\obj\Debug\SqlHelperClass.pdb

@@ -1,0 +1,6 @@
+F:\vsProjectDocument\WebDemo\WebDemo\bin\WebDemo.dll.config
+F:\vsProjectDocument\WebDemo\WebDemo\bin\WebDemo.dll
+F:\vsProjectDocument\WebDemo\WebDemo\bin\WebDemo.pdb
+F:\vsProjectDocument\WebDemo\WebDemo\obj\Debug\WebDemo.csprojResolveAssemblyReference.cache
+F:\vsProjectDocument\WebDemo\WebDemo\obj\Debug\WebDemo.dll
+F:\vsProjectDocument\WebDemo\WebDemo\obj\Debug\WebDemo.pdb

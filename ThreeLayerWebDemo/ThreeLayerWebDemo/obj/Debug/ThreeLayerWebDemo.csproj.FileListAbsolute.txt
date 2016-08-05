@@ -1,0 +1,14 @@
+F:\vsProjectDocument\ThreeLayerWebDemo\ThreeLayerWebDemo\bin\ThreeLayerWebDemo.dll.config
+F:\vsProjectDocument\ThreeLayerWebDemo\ThreeLayerWebDemo\bin\ThreeLayerWebDemo.dll
+F:\vsProjectDocument\ThreeLayerWebDemo\ThreeLayerWebDemo\bin\ThreeLayerWebDemo.pdb
+F:\vsProjectDocument\ThreeLayerWebDemo\ThreeLayerWebDemo\bin\BLL.dll
+F:\vsProjectDocument\ThreeLayerWebDemo\ThreeLayerWebDemo\bin\Model.dll
+F:\vsProjectDocument\ThreeLayerWebDemo\ThreeLayerWebDemo\bin\BLL.pdb
+F:\vsProjectDocument\ThreeLayerWebDemo\ThreeLayerWebDemo\bin\Model.pdb
+F:\vsProjectDocument\ThreeLayerWebDemo\ThreeLayerWebDemo\obj\Debug\ThreeLayerWebDemo.csprojResolveAssemblyReference.cache
+F:\vsProjectDocument\ThreeLayerWebDemo\ThreeLayerWebDemo\obj\Debug\ThreeLayerWebDemo.dll
+F:\vsProjectDocument\ThreeLayerWebDemo\ThreeLayerWebDemo\obj\Debug\ThreeLayerWebDemo.pdb
+F:\vsProjectDocument\ThreeLayerWebDemo\ThreeLayerWebDemo\bin\Common.dll
+F:\vsProjectDocument\ThreeLayerWebDemo\ThreeLayerWebDemo\bin\DAL.dll
+F:\vsProjectDocument\ThreeLayerWebDemo\ThreeLayerWebDemo\bin\Common.pdb
+F:\vsProjectDocument\ThreeLayerWebDemo\ThreeLayerWebDemo\bin\DAL.pdb

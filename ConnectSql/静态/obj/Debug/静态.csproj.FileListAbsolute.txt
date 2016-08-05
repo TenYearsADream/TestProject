@@ -1,0 +1,3 @@
+F:\vsProjectDocument\ConnectSql\静态\bin\Debug\静态.exe.config
+F:\vsProjectDocument\ConnectSql\静态\obj\Debug\静态.csprojResolveAssemblyReference.cache
+E:\vsProjectDocument\ConnectSql\静态\bin\Debug\静态.exe.config

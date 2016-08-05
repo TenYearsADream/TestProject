@@ -1,0 +1,6 @@
+E:\vsProjectDocument\WcfServices\WcfServices\bin\Debug\WcfServices.exe.config
+E:\vsProjectDocument\WcfServices\WcfServices\bin\Debug\WcfServices.exe
+E:\vsProjectDocument\WcfServices\WcfServices\bin\Debug\WcfServices.pdb
+E:\vsProjectDocument\WcfServices\WcfServices\obj\Debug\Cilent.csprojResolveAssemblyReference.cache
+E:\vsProjectDocument\WcfServices\WcfServices\obj\Debug\WcfServices.exe
+E:\vsProjectDocument\WcfServices\WcfServices\obj\Debug\WcfServices.pdb

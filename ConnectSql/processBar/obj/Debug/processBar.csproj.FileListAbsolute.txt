@@ -1,0 +1,9 @@
+E:\vsProjectDocument\ConnectSql\processBar\bin\Debug\processBar.exe.config
+E:\vsProjectDocument\ConnectSql\processBar\bin\Debug\processBar.exe
+E:\vsProjectDocument\ConnectSql\processBar\bin\Debug\processBar.pdb
+E:\vsProjectDocument\ConnectSql\processBar\obj\Debug\processBar.csprojResolveAssemblyReference.cache
+E:\vsProjectDocument\ConnectSql\processBar\obj\Debug\processBar.Form1.resources
+E:\vsProjectDocument\ConnectSql\processBar\obj\Debug\processBar.Properties.Resources.resources
+E:\vsProjectDocument\ConnectSql\processBar\obj\Debug\processBar.csproj.GenerateResource.Cache
+E:\vsProjectDocument\ConnectSql\processBar\obj\Debug\processBar.exe
+E:\vsProjectDocument\ConnectSql\processBar\obj\Debug\processBar.pdb

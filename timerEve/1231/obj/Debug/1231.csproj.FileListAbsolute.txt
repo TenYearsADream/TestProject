@@ -1,0 +1,9 @@
+E:\vsProjectDocument\timerEve\1231\bin\Debug\1231.exe.config
+E:\vsProjectDocument\timerEve\1231\bin\Debug\1231.exe
+E:\vsProjectDocument\timerEve\1231\bin\Debug\1231.pdb
+E:\vsProjectDocument\timerEve\1231\obj\Debug\1231.csprojResolveAssemblyReference.cache
+E:\vsProjectDocument\timerEve\1231\obj\Debug\_1231.Form1.resources
+E:\vsProjectDocument\timerEve\1231\obj\Debug\_1231.Properties.Resources.resources
+E:\vsProjectDocument\timerEve\1231\obj\Debug\1231.csproj.GenerateResource.Cache
+E:\vsProjectDocument\timerEve\1231\obj\Debug\1231.exe
+E:\vsProjectDocument\timerEve\1231\obj\Debug\1231.pdb

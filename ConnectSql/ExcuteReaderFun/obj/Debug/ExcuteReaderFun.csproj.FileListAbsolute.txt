@@ -1,0 +1,9 @@
+F:\vsProjectDocument\ConnectSql\ExcuteReaderFun\bin\Debug\ExcuteReaderFun.exe.config
+F:\vsProjectDocument\ConnectSql\ExcuteReaderFun\bin\Debug\ExcuteReaderFun.exe
+F:\vsProjectDocument\ConnectSql\ExcuteReaderFun\bin\Debug\ExcuteReaderFun.pdb
+F:\vsProjectDocument\ConnectSql\ExcuteReaderFun\obj\Debug\ExcuteReaderFun.csprojResolveAssemblyReference.cache
+F:\vsProjectDocument\ConnectSql\ExcuteReaderFun\obj\Debug\ExcuteReaderFun.exe
+F:\vsProjectDocument\ConnectSql\ExcuteReaderFun\obj\Debug\ExcuteReaderFun.pdb
+E:\vsProjectDocument\ConnectSql\ExcuteReaderFun\bin\Debug\ExcuteReaderFun.exe.config
+E:\vsProjectDocument\ConnectSql\ExcuteReaderFun\obj\Debug\ExcuteReaderFun.exe
+E:\vsProjectDocument\ConnectSql\ExcuteReaderFun\obj\Debug\ExcuteReaderFun.pdb

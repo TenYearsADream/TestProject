@@ -1,0 +1,9 @@
+E:\vsProjectDocument\timerEve\paramWinform\bin\Debug\paramWinform.exe.config
+E:\vsProjectDocument\timerEve\paramWinform\bin\Debug\paramWinform.exe
+E:\vsProjectDocument\timerEve\paramWinform\bin\Debug\paramWinform.pdb
+E:\vsProjectDocument\timerEve\paramWinform\obj\Debug\paramWinform.csprojResolveAssemblyReference.cache
+E:\vsProjectDocument\timerEve\paramWinform\obj\Debug\paramWinform.Form1.resources
+E:\vsProjectDocument\timerEve\paramWinform\obj\Debug\paramWinform.Properties.Resources.resources
+E:\vsProjectDocument\timerEve\paramWinform\obj\Debug\paramWinform.csproj.GenerateResource.Cache
+E:\vsProjectDocument\timerEve\paramWinform\obj\Debug\paramWinform.exe
+E:\vsProjectDocument\timerEve\paramWinform\obj\Debug\paramWinform.pdb

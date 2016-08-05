@@ -1,0 +1,5 @@
+E:\05 公司业务\Company\05 培训\04 WCF\WCF.Demo.Service\WCF.Demo.Model\bin\Debug\WCF.Demo.Model.dll
+E:\05 公司业务\Company\05 培训\04 WCF\WCF.Demo.Service\WCF.Demo.Model\bin\Debug\WCF.Demo.Model.pdb
+E:\05 公司业务\Company\05 培训\04 WCF\WCF.Demo.Service\WCF.Demo.Model\obj\Debug\WCF.Demo.Model.csprojResolveAssemblyReference.cache
+E:\05 公司业务\Company\05 培训\04 WCF\WCF.Demo.Service\WCF.Demo.Model\obj\Debug\WCF.Demo.Model.dll
+E:\05 公司业务\Company\05 培训\04 WCF\WCF.Demo.Service\WCF.Demo.Model\obj\Debug\WCF.Demo.Model.pdb

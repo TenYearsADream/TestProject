@@ -1,0 +1,9 @@
+E:\vsProjectDocument\timerEve\timerEve\bin\Debug\timerEve.exe.config
+E:\vsProjectDocument\timerEve\timerEve\bin\Debug\timerEve.exe
+E:\vsProjectDocument\timerEve\timerEve\bin\Debug\timerEve.pdb
+E:\vsProjectDocument\timerEve\timerEve\obj\Debug\timerEve.csprojResolveAssemblyReference.cache
+E:\vsProjectDocument\timerEve\timerEve\obj\Debug\timerEve.Form1.resources
+E:\vsProjectDocument\timerEve\timerEve\obj\Debug\timerEve.Properties.Resources.resources
+E:\vsProjectDocument\timerEve\timerEve\obj\Debug\timerEve.csproj.GenerateResource.Cache
+E:\vsProjectDocument\timerEve\timerEve\obj\Debug\timerEve.exe
+E:\vsProjectDocument\timerEve\timerEve\obj\Debug\timerEve.pdb

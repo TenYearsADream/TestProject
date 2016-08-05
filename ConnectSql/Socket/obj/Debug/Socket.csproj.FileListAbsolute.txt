@@ -1,0 +1,9 @@
+F:\vsProjectDocument\ConnectSql\Socket\bin\Debug\Socket.exe.config
+E:\vsProjectDocument\ConnectSql\Socket\bin\Debug\Socket.exe.config
+E:\vsProjectDocument\ConnectSql\Socket\bin\Debug\Socket.exe
+E:\vsProjectDocument\ConnectSql\Socket\bin\Debug\Socket.pdb
+E:\vsProjectDocument\ConnectSql\Socket\obj\Debug\Socket.csprojResolveAssemblyReference.cache
+E:\vsProjectDocument\ConnectSql\Socket\obj\Debug\Socket.Properties.Resources.resources
+E:\vsProjectDocument\ConnectSql\Socket\obj\Debug\Socket.csproj.GenerateResource.Cache
+E:\vsProjectDocument\ConnectSql\Socket\obj\Debug\Socket.exe
+E:\vsProjectDocument\ConnectSql\Socket\obj\Debug\Socket.pdb

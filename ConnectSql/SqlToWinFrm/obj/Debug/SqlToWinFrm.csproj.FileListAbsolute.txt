@@ -1,0 +1,13 @@
+F:\vsProjectDocument\ConnectSql\SqlToWinFrm\bin\Debug\SqlToWinFrm.exe.config
+F:\vsProjectDocument\ConnectSql\SqlToWinFrm\bin\Debug\SqlToWinFrm.exe
+F:\vsProjectDocument\ConnectSql\SqlToWinFrm\bin\Debug\SqlToWinFrm.pdb
+F:\vsProjectDocument\ConnectSql\SqlToWinFrm\obj\Debug\SqlToWinFrm.csprojResolveAssemblyReference.cache
+F:\vsProjectDocument\ConnectSql\SqlToWinFrm\obj\Debug\SqlToWinFrm.Form1.resources
+F:\vsProjectDocument\ConnectSql\SqlToWinFrm\obj\Debug\SqlToWinFrm.Properties.Resources.resources
+F:\vsProjectDocument\ConnectSql\SqlToWinFrm\obj\Debug\SqlToWinFrm.csproj.GenerateResource.Cache
+F:\vsProjectDocument\ConnectSql\SqlToWinFrm\obj\Debug\SqlToWinFrm.exe
+F:\vsProjectDocument\ConnectSql\SqlToWinFrm\obj\Debug\SqlToWinFrm.pdb
+F:\vsProjectDocument\ConnectSql\SqlToWinFrm\obj\Debug\SqlToWinFrm.Form2.resources
+E:\vsProjectDocument\ConnectSql\SqlToWinFrm\bin\Debug\SqlToWinFrm.exe.config
+E:\vsProjectDocument\ConnectSql\SqlToWinFrm\obj\Debug\SqlToWinFrm.exe
+E:\vsProjectDocument\ConnectSql\SqlToWinFrm\obj\Debug\SqlToWinFrm.pdb

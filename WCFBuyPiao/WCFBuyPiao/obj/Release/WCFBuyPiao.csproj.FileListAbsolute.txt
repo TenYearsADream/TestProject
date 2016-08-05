@@ -1,0 +1,6 @@
+E:\vsProjectDocument\WCFBuyPiao\WCFBuyPiao\bin\WCFBuyPiao.dll.config
+E:\vsProjectDocument\WCFBuyPiao\WCFBuyPiao\bin\WCFBuyPiao.dll
+E:\vsProjectDocument\WCFBuyPiao\WCFBuyPiao\bin\WCFBuyPiao.pdb
+E:\vsProjectDocument\WCFBuyPiao\WCFBuyPiao\obj\Release\WCFBuyPiao.csprojResolveAssemblyReference.cache
+E:\vsProjectDocument\WCFBuyPiao\WCFBuyPiao\obj\Release\WCFBuyPiao.dll
+E:\vsProjectDocument\WCFBuyPiao\WCFBuyPiao\obj\Release\WCFBuyPiao.pdb

@@ -1,0 +1,9 @@
+F:\vsProjectDocument\ProcrssFrm\ProcrssFrm\bin\Debug\ProcrssFrm.exe.config
+F:\vsProjectDocument\ProcrssFrm\ProcrssFrm\bin\Debug\ProcrssFrm.exe
+F:\vsProjectDocument\ProcrssFrm\ProcrssFrm\bin\Debug\ProcrssFrm.pdb
+F:\vsProjectDocument\ProcrssFrm\ProcrssFrm\obj\Debug\ProcrssFrm.csprojResolveAssemblyReference.cache
+F:\vsProjectDocument\ProcrssFrm\ProcrssFrm\obj\Debug\ProcrssFrm.Form1.resources
+F:\vsProjectDocument\ProcrssFrm\ProcrssFrm\obj\Debug\ProcrssFrm.Properties.Resources.resources
+F:\vsProjectDocument\ProcrssFrm\ProcrssFrm\obj\Debug\ProcrssFrm.csproj.GenerateResource.Cache
+F:\vsProjectDocument\ProcrssFrm\ProcrssFrm\obj\Debug\ProcrssFrm.exe
+F:\vsProjectDocument\ProcrssFrm\ProcrssFrm\obj\Debug\ProcrssFrm.pdb

@@ -1,0 +1,11 @@
+E:\vsProjectDocument\WCFBuyPiao\检测服务Form\bin\Debug\检测服务Form.exe.config
+E:\vsProjectDocument\WCFBuyPiao\检测服务Form\bin\Debug\检测服务Form.exe
+E:\vsProjectDocument\WCFBuyPiao\检测服务Form\bin\Debug\检测服务Form.pdb
+E:\vsProjectDocument\WCFBuyPiao\检测服务Form\bin\Debug\WCFBuyPiao.dll
+E:\vsProjectDocument\WCFBuyPiao\检测服务Form\bin\Debug\WCFBuyPiao.pdb
+E:\vsProjectDocument\WCFBuyPiao\检测服务Form\obj\Debug\检测服务Form.csprojResolveAssemblyReference.cache
+E:\vsProjectDocument\WCFBuyPiao\检测服务Form\obj\Debug\检测服务Form.Properties.Resources.resources
+E:\vsProjectDocument\WCFBuyPiao\检测服务Form\obj\Debug\检测服务Form.检测服务.resources
+E:\vsProjectDocument\WCFBuyPiao\检测服务Form\obj\Debug\检测服务Form.csproj.GenerateResource.Cache
+E:\vsProjectDocument\WCFBuyPiao\检测服务Form\obj\Debug\检测服务Form.exe
+E:\vsProjectDocument\WCFBuyPiao\检测服务Form\obj\Debug\检测服务Form.pdb

@@ -1,0 +1,6 @@
+E:\vsProjectDocument\WCF\WCFClientWeb\bin\WCFClientWeb.dll.config
+E:\vsProjectDocument\WCF\WCFClientWeb\bin\WCFClientWeb.dll
+E:\vsProjectDocument\WCF\WCFClientWeb\bin\WCFClientWeb.pdb
+E:\vsProjectDocument\WCF\WCFClientWeb\obj\Debug\WCFClientWeb.csprojResolveAssemblyReference.cache
+E:\vsProjectDocument\WCF\WCFClientWeb\obj\Debug\WCFClientWeb.dll
+E:\vsProjectDocument\WCF\WCFClientWeb\obj\Debug\WCFClientWeb.pdb

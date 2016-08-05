@@ -1,0 +1,9 @@
+E:\vsProjectDocument\timerEve\thread\bin\Debug\thread.exe.config
+E:\vsProjectDocument\timerEve\thread\bin\Debug\thread.exe
+E:\vsProjectDocument\timerEve\thread\bin\Debug\thread.pdb
+E:\vsProjectDocument\timerEve\thread\obj\Debug\thread.csprojResolveAssemblyReference.cache
+E:\vsProjectDocument\timerEve\thread\obj\Debug\thread.Form1.resources
+E:\vsProjectDocument\timerEve\thread\obj\Debug\thread.Properties.Resources.resources
+E:\vsProjectDocument\timerEve\thread\obj\Debug\thread.csproj.GenerateResource.Cache
+E:\vsProjectDocument\timerEve\thread\obj\Debug\thread.exe
+E:\vsProjectDocument\timerEve\thread\obj\Debug\thread.pdb

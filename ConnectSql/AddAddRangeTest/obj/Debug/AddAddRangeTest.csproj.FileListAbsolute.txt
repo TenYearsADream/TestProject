@@ -1,0 +1,6 @@
+E:\vsProjectDocument\ConnectSql\AddAddRangeTest\bin\Debug\AddAddRangeTest.exe.config
+E:\vsProjectDocument\ConnectSql\AddAddRangeTest\bin\Debug\AddAddRangeTest.exe
+E:\vsProjectDocument\ConnectSql\AddAddRangeTest\bin\Debug\AddAddRangeTest.pdb
+E:\vsProjectDocument\ConnectSql\AddAddRangeTest\obj\Debug\AddAddRangeTest.csprojResolveAssemblyReference.cache
+E:\vsProjectDocument\ConnectSql\AddAddRangeTest\obj\Debug\AddAddRangeTest.exe
+E:\vsProjectDocument\ConnectSql\AddAddRangeTest\obj\Debug\AddAddRangeTest.pdb

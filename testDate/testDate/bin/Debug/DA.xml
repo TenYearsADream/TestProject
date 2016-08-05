@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <connectionStrings name="MySql" conString="Data Source=SHZB-WANGXF2-DP\MSSQL;Initial Catalog=MyFirstDatabase;Integrated Security=True"/>
+</configuration>

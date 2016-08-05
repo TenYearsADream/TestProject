@@ -1,0 +1,12 @@
+E:\05 公司业务\Company\05 培训\04 WCF\WCF.Demo.Clinet\WCF.Demo.Clinet\bin\WCF.Demo.Clinet.dll.config
+E:\05 公司业务\Company\05 培训\04 WCF\WCF.Demo.Clinet\WCF.Demo.Clinet\bin\WCF.Demo.Clinet.dll
+E:\05 公司业务\Company\05 培训\04 WCF\WCF.Demo.Clinet\WCF.Demo.Clinet\bin\WCF.Demo.Clinet.pdb
+E:\05 公司业务\Company\05 培训\04 WCF\WCF.Demo.Clinet\WCF.Demo.Clinet\obj\Debug\WCF.Demo.Clinet.dll
+E:\05 公司业务\Company\05 培训\04 WCF\WCF.Demo.Clinet\WCF.Demo.Clinet\obj\Debug\WCF.Demo.Clinet.pdb
+E:\05 公司业务\Company\05 培训\04 WCF\WCF.Demo.Clinet\WCF.Demo.Clinet\obj\Debug\WCF.Demo.Clinet.csprojResolveAssemblyReference.cache
+E:\vsProjectDocument\WCF.Demo\WCF.Demo\WCF.Demo.Clinet\WCF.Demo.Clinet\bin\WCF.Demo.Clinet.dll.config
+E:\vsProjectDocument\WCF.Demo\WCF.Demo\WCF.Demo.Clinet\WCF.Demo.Clinet\bin\WCF.Demo.Clinet.dll
+E:\vsProjectDocument\WCF.Demo\WCF.Demo\WCF.Demo.Clinet\WCF.Demo.Clinet\bin\WCF.Demo.Clinet.pdb
+E:\vsProjectDocument\WCF.Demo\WCF.Demo\WCF.Demo.Clinet\WCF.Demo.Clinet\obj\Debug\WCF.Demo.Clinet.csprojResolveAssemblyReference.cache
+E:\vsProjectDocument\WCF.Demo\WCF.Demo\WCF.Demo.Clinet\WCF.Demo.Clinet\obj\Debug\WCF.Demo.Clinet.dll
+E:\vsProjectDocument\WCF.Demo\WCF.Demo\WCF.Demo.Clinet\WCF.Demo.Clinet\obj\Debug\WCF.Demo.Clinet.pdb

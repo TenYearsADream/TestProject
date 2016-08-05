@@ -1,0 +1,9 @@
+E:\vsProjectDocument\timerEve\backGround\bin\Debug\backGround.exe.config
+E:\vsProjectDocument\timerEve\backGround\bin\Debug\backGround.exe
+E:\vsProjectDocument\timerEve\backGround\bin\Debug\backGround.pdb
+E:\vsProjectDocument\timerEve\backGround\obj\Debug\backGround.Form1.resources
+E:\vsProjectDocument\timerEve\backGround\obj\Debug\backGround.Properties.Resources.resources
+E:\vsProjectDocument\timerEve\backGround\obj\Debug\backGround.csproj.GenerateResource.Cache
+E:\vsProjectDocument\timerEve\backGround\obj\Debug\backGround.exe
+E:\vsProjectDocument\timerEve\backGround\obj\Debug\backGround.pdb
+E:\vsProjectDocument\timerEve\backGround\obj\Debug\backGround.csprojResolveAssemblyReference.cache

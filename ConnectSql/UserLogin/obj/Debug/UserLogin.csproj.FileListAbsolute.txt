@@ -1,0 +1,13 @@
+F:\vsProjectDocument\ConnectSql\UserLogin\bin\Debug\UserLogin.exe.config
+F:\vsProjectDocument\ConnectSql\UserLogin\bin\Debug\UserLogin.exe
+F:\vsProjectDocument\ConnectSql\UserLogin\bin\Debug\UserLogin.pdb
+F:\vsProjectDocument\ConnectSql\UserLogin\obj\Debug\UserLogin.csprojResolveAssemblyReference.cache
+F:\vsProjectDocument\ConnectSql\UserLogin\obj\Debug\UserLogin.Form1.resources
+F:\vsProjectDocument\ConnectSql\UserLogin\obj\Debug\UserLogin.Properties.Resources.resources
+F:\vsProjectDocument\ConnectSql\UserLogin\obj\Debug\UserLogin.csproj.GenerateResource.Cache
+F:\vsProjectDocument\ConnectSql\UserLogin\obj\Debug\UserLogin.exe
+F:\vsProjectDocument\ConnectSql\UserLogin\obj\Debug\UserLogin.pdb
+F:\vsProjectDocument\ConnectSql\UserLogin\obj\Debug\UserLogin.Form2.resources
+E:\vsProjectDocument\ConnectSql\UserLogin\bin\Debug\UserLogin.exe.config
+E:\vsProjectDocument\ConnectSql\UserLogin\obj\Debug\UserLogin.exe
+E:\vsProjectDocument\ConnectSql\UserLogin\obj\Debug\UserLogin.pdb

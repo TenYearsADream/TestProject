@@ -1,0 +1,9 @@
+F:\vsProjectDocument\ThreadDemo\ChouJiang\bin\Debug\ChouJiang.exe.config
+F:\vsProjectDocument\ThreadDemo\ChouJiang\bin\Debug\ChouJiang.exe
+F:\vsProjectDocument\ThreadDemo\ChouJiang\bin\Debug\ChouJiang.pdb
+F:\vsProjectDocument\ThreadDemo\ChouJiang\obj\Debug\ChouJiang.csprojResolveAssemblyReference.cache
+F:\vsProjectDocument\ThreadDemo\ChouJiang\obj\Debug\ChouJiang.Main.resources
+F:\vsProjectDocument\ThreadDemo\ChouJiang\obj\Debug\ChouJiang.Properties.Resources.resources
+F:\vsProjectDocument\ThreadDemo\ChouJiang\obj\Debug\ChouJiang.csproj.GenerateResource.Cache
+F:\vsProjectDocument\ThreadDemo\ChouJiang\obj\Debug\ChouJiang.exe
+F:\vsProjectDocument\ThreadDemo\ChouJiang\obj\Debug\ChouJiang.pdb

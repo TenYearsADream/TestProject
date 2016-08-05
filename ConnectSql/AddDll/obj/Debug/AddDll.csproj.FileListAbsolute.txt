@@ -1,0 +1,5 @@
+E:\vsProjectDocument\ConnectSql\AddDll\bin\Debug\AddDll.dll
+E:\vsProjectDocument\ConnectSql\AddDll\bin\Debug\AddDll.pdb
+E:\vsProjectDocument\ConnectSql\AddDll\obj\Debug\AddDll.csprojResolveAssemblyReference.cache
+E:\vsProjectDocument\ConnectSql\AddDll\obj\Debug\AddDll.dll
+E:\vsProjectDocument\ConnectSql\AddDll\obj\Debug\AddDll.pdb

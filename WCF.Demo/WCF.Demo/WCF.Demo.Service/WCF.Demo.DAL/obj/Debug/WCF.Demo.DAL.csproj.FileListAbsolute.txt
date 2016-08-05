@@ -1,0 +1,7 @@
+E:\05 公司业务\Company\05 培训\04 WCF\WCF.Demo.Service\WCF.Demo.DAL\bin\Debug\WCF.Demo.DAL.dll
+E:\05 公司业务\Company\05 培训\04 WCF\WCF.Demo.Service\WCF.Demo.DAL\bin\Debug\WCF.Demo.DAL.pdb
+E:\05 公司业务\Company\05 培训\04 WCF\WCF.Demo.Service\WCF.Demo.DAL\obj\Debug\WCF.Demo.DAL.csprojResolveAssemblyReference.cache
+E:\05 公司业务\Company\05 培训\04 WCF\WCF.Demo.Service\WCF.Demo.DAL\obj\Debug\WCF.Demo.DAL.dll
+E:\05 公司业务\Company\05 培训\04 WCF\WCF.Demo.Service\WCF.Demo.DAL\obj\Debug\WCF.Demo.DAL.pdb
+E:\05 公司业务\Company\05 培训\04 WCF\WCF.Demo.Service\WCF.Demo.DAL\bin\Debug\WCF.Demo.Model.dll
+E:\05 公司业务\Company\05 培训\04 WCF\WCF.Demo.Service\WCF.Demo.DAL\bin\Debug\WCF.Demo.Model.pdb

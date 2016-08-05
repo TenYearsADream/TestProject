@@ -1,0 +1,9 @@
+E:\vsProjectDocument\testDate\testDate\bin\Debug\testDate.exe.config
+E:\vsProjectDocument\testDate\testDate\bin\Debug\testDate.exe
+E:\vsProjectDocument\testDate\testDate\bin\Debug\testDate.pdb
+E:\vsProjectDocument\testDate\testDate\obj\Debug\testDate.csprojResolveAssemblyReference.cache
+E:\vsProjectDocument\testDate\testDate\obj\Debug\testDate.Form1.resources
+E:\vsProjectDocument\testDate\testDate\obj\Debug\testDate.Properties.Resources.resources
+E:\vsProjectDocument\testDate\testDate\obj\Debug\testDate.csproj.GenerateResource.Cache
+E:\vsProjectDocument\testDate\testDate\obj\Debug\testDate.exe
+E:\vsProjectDocument\testDate\testDate\obj\Debug\testDate.pdb

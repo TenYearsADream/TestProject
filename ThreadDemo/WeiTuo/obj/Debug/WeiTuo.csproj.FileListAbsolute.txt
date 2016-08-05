@@ -1,0 +1,10 @@
+F:\vsProjectDocument\ThreadDemo\WeiTuo\bin\Debug\WeiTuo.exe.config
+F:\vsProjectDocument\ThreadDemo\WeiTuo\bin\Debug\WeiTuo.exe
+F:\vsProjectDocument\ThreadDemo\WeiTuo\bin\Debug\WeiTuo.pdb
+F:\vsProjectDocument\ThreadDemo\WeiTuo\obj\Debug\WeiTuo.csprojResolveAssemblyReference.cache
+F:\vsProjectDocument\ThreadDemo\WeiTuo\obj\Debug\WeiTuo.Form1.resources
+F:\vsProjectDocument\ThreadDemo\WeiTuo\obj\Debug\WeiTuo.Form2.resources
+F:\vsProjectDocument\ThreadDemo\WeiTuo\obj\Debug\WeiTuo.Properties.Resources.resources
+F:\vsProjectDocument\ThreadDemo\WeiTuo\obj\Debug\WeiTuo.csproj.GenerateResource.Cache
+F:\vsProjectDocument\ThreadDemo\WeiTuo\obj\Debug\WeiTuo.exe
+F:\vsProjectDocument\ThreadDemo\WeiTuo\obj\Debug\WeiTuo.pdb

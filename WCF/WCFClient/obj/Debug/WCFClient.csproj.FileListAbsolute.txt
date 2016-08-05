@@ -1,0 +1,6 @@
+E:\vsProjectDocument\WCF\WCFClient\bin\WCFClient.dll.config
+E:\vsProjectDocument\WCF\WCFClient\bin\WCFClient.dll
+E:\vsProjectDocument\WCF\WCFClient\bin\WCFClient.pdb
+E:\vsProjectDocument\WCF\WCFClient\obj\Debug\WCFClient.csprojResolveAssemblyReference.cache
+E:\vsProjectDocument\WCF\WCFClient\obj\Debug\WCFClient.dll
+E:\vsProjectDocument\WCF\WCFClient\obj\Debug\WCFClient.pdb

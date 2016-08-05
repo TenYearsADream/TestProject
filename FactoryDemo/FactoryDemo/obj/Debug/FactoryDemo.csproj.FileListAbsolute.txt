@@ -1,0 +1,6 @@
+E:\vsProjectDocument\FactoryDemo\FactoryDemo\bin\Debug\FactoryDemo.exe.config
+E:\vsProjectDocument\FactoryDemo\FactoryDemo\bin\Debug\FactoryDemo.exe
+E:\vsProjectDocument\FactoryDemo\FactoryDemo\bin\Debug\FactoryDemo.pdb
+E:\vsProjectDocument\FactoryDemo\FactoryDemo\obj\Debug\FactoryDemo.csprojResolveAssemblyReference.cache
+E:\vsProjectDocument\FactoryDemo\FactoryDemo\obj\Debug\FactoryDemo.exe
+E:\vsProjectDocument\FactoryDemo\FactoryDemo\obj\Debug\FactoryDemo.pdb

@@ -1,0 +1,6 @@
+F:\vsProjectDocument\ConnectSql\ADO_pool\bin\Debug\ADO_pool.exe.config
+F:\vsProjectDocument\ConnectSql\ADO_pool\bin\Debug\ADO_pool.exe
+F:\vsProjectDocument\ConnectSql\ADO_pool\bin\Debug\ADO_pool.pdb
+F:\vsProjectDocument\ConnectSql\ADO_pool\obj\Debug\ADO_pool.csprojResolveAssemblyReference.cache
+F:\vsProjectDocument\ConnectSql\ADO_pool\obj\Debug\ADO_pool.exe
+F:\vsProjectDocument\ConnectSql\ADO_pool\obj\Debug\ADO_pool.pdb

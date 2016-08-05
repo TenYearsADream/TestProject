@@ -1,0 +1,8 @@
+E:\vsProjectDocument\timerEve\zishenc\bin\Debug\zishenc.exe.config
+E:\vsProjectDocument\timerEve\zishenc\bin\Debug\zishenc.exe
+E:\vsProjectDocument\timerEve\zishenc\bin\Debug\zishenc.pdb
+E:\vsProjectDocument\timerEve\zishenc\obj\Debug\zishenc.Form1.resources
+E:\vsProjectDocument\timerEve\zishenc\obj\Debug\zishenc.Properties.Resources.resources
+E:\vsProjectDocument\timerEve\zishenc\obj\Debug\zishenc.csproj.GenerateResource.Cache
+E:\vsProjectDocument\timerEve\zishenc\obj\Debug\zishenc.exe
+E:\vsProjectDocument\timerEve\zishenc\obj\Debug\zishenc.pdb
