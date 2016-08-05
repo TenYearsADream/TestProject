@@ -1,0 +1,6 @@
+E:\GitHub\vsProjectDocument\timerEve\DelegateDemo\bin\Debug\DelegateDemo.exe.config
+E:\GitHub\vsProjectDocument\timerEve\DelegateDemo\obj\Debug\DelegateDemo.csprojResolveAssemblyReference.cache
+E:\GitHub\vsProjectDocument\timerEve\DelegateDemo\bin\Debug\DelegateDemo.exe
+E:\GitHub\vsProjectDocument\timerEve\DelegateDemo\bin\Debug\DelegateDemo.pdb
+E:\GitHub\vsProjectDocument\timerEve\DelegateDemo\obj\Debug\DelegateDemo.exe
+E:\GitHub\vsProjectDocument\timerEve\DelegateDemo\obj\Debug\DelegateDemo.pdb
